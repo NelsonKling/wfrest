@@ -1,5 +1,6 @@
-allprojects {
+allprojects!{
     ext {
         release_version = '1.55'
     }
 }
+ 
